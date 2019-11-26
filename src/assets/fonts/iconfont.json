@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1115086",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "1983075",
+      "name": "人员添加",
+      "font_class": "renyuantianjia",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "4237401",
+      "name": "项目",
+      "font_class": "xiangmu",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "4452094",
+      "name": "人员管理",
+      "font_class": "rrenyuanguanli-",
+      "unicode": "e69f",
+      "unicode_decimal": 59039
+    },
+    {
+      "icon_id": "5403122",
+      "name": "消息通知",
+      "font_class": "xiaoxitongzhi",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "5431180",
+      "name": "消息通知",
+      "font_class": "xiaoxitongzhi1",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "9725579",
+      "name": "通知",
+      "font_class": "tongzhi",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    }
+  ]
+}
