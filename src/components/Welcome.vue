@@ -1,5 +1,7 @@
 <template>
-  <div>welcome</div>
+  <div>
+    welcome <strong>Admin</strong>登录！
+  </div>
 </template>
 
 <script>
